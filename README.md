@@ -8,4 +8,4 @@
 •	Create supervised machine learning models to identify relationships in data and make predictions.<br>
 •	Leverage NLP to extract insights.<br>
 
-- 🔭 I’m currently looking for career opportunities in Data Science, Engineering or Testing.
+🔭 I’m currently looking for career opportunities in Data Science, Engineering or Testing.
